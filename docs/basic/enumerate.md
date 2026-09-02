@@ -126,6 +126,7 @@ author: Early0v0, frank-xjh, Great-designer, ksyx, qiqistyle, Tiphereth-A , Sais
 ## 习题
 
 -   [2811: 熄灯问题 - OpenJudge](http://bailian.openjudge.cn/practice/2811/)
+-   [P1003 [NOIP 2011 提高组] 铺地毯 - Luogu](https://www.luogu.com.cn/problem/P1003)
 
 ## 脚注
 
