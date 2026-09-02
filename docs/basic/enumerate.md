@@ -1,4 +1,4 @@
-author: Early0v0, frank-xjh, Great-designer, ksyx, qiqistyle, Tiphereth-A , Saisyc, shuzhouliu, Xeonacid, xyf007
+author: Early0v0, frank-xjh, Great-designer, ksyx, qiqistyle, Tiphereth-A , Saisyc, shuzhouliu, Xeonacid, xyf007, Yangchen20160606
 
 本页面将简要介绍枚举算法．
 
@@ -126,6 +126,8 @@ author: Early0v0, frank-xjh, Great-designer, ksyx, qiqistyle, Tiphereth-A , Sais
 ## 习题
 
 -   [2811: 熄灯问题 - OpenJudge](http://bailian.openjudge.cn/practice/2811/)
+-   [P9752 [CSP-S 2023] 密码锁 - Luogu](https://www.luogu.com.cn/problem/P9752/)
+-   [P1379 八数码难题 - Luogu](https://www.luogu.com.cn/problem/P1379/)
 
 ## 脚注
 
